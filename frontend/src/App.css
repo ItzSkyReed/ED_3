@@ -1,0 +1,8 @@
+html, body {
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+
+}
+.App h1 {
+    text-align: center;
+}
